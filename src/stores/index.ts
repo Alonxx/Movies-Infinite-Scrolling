@@ -1,0 +1,1 @@
+export { useMoviesDataStore } from "./useMoviesStore";
